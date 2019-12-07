@@ -9,7 +9,7 @@ Laravel Framework based RESTFul API. Provade restful interface for thin clients 
 * Manage projects
 * Export data to excel and pdf
 
-In process of development are used many of futures of Laravel Framework like:
+In the process of development are used many of features of Laravel Framework like:
 * Dependecy injection
 * Method injection
 * Facades
