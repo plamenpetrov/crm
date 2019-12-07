@@ -10,10 +10,11 @@ Laravel Framework based RESTFul API. Provade restful interface for thin clients 
 * Export data to excel and pdf
 
 In the process of development are used many of features of Laravel Framework like:
-* Dependecy injection
+* Dependency injection
 * Method injection
-* Facades
+* Define Providers
 * Services
+* Facades
 * Routing and route model binding
 * Middlewares such as ACL, JWT Token Auth etc.
 * Response
